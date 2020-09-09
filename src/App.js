@@ -1,9 +1,7 @@
 import React from 'react';
 import './App.css';
 import ReactDOM from 'react-dom';
-import Img from 'react-optimized-image';
-import Logo from './logo.png';
-import Sidemenu from './Dashboard/sidemenu';
+import Sidemenu from './Components/Dashboard/sidemenu';
 import 'bootstrap/dist/css/bootstrap.css';
 function Posts(){
     const box = [
